@@ -6,7 +6,7 @@ Data loading and preprocessing.
 Model construction and compilation.
 Training and evaluation.
 
-Requirements:
+`Requirements:`
 To run this project locally, ensure you have the following libraries installed:
 - Python 3.x
 - TensorFlow
