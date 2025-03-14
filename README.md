@@ -8,7 +8,7 @@ Training and evaluation.
 
 Requirements:
 To run this project locally, ensure you have the following libraries installed:
-Python 3.x
-TensorFlow
-TensorFlow Datasets
-NumPy
+- Python 3.x
+- TensorFlow
+- TensorFlow Datasets
+- NumPy
